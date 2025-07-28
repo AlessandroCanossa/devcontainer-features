@@ -1,5 +1,3 @@
-# Dev Container Features
-
 # NeoVim
 
 Download latest neovim binary
